@@ -5,7 +5,7 @@
   A light-weight job scheduling library for Node.js
 </p>
 
-# Agenda offers
+# Agenda offers - Edited
 
 - Minimal overhead. Agenda aims to keep its code base small.
 - Mongo backed persistence layer.
